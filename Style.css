@@ -1,0 +1,58 @@
+h1 {
+text-align: center;
+color: Grey
+}
+
+P{
+  text-align: center;
+  color: Red
+}
+
+ul {
+  text-align: center;
+color: blue
+}
+
+.Sitat {
+  text-align: center;
+font-weight: bold;
+font-style: italic;
+font-size: 50px;
+color: Brown
+}
+
+h2 {
+  text-align: center;
+font-weight: bold;
+font-size: 30px;
+font-style: oblique;
+color: Blue
+}
+
+h3 {
+  text-align: center;
+  font-size: 45px;
+  font-style: italic;
+  font-weight: lighter;
+  color: Red
+}
+.Forfatter {
+  margin-top: 100px;
+}
+
+.Bilde {
+width: 200px;
+border-radius: 50%;
+border-color: black;
+border-width:5px;
+border-style: solid;
+display: block;
+margin-right: auto;
+margin-left: auto;
+margin-top: 40px;
+}
+
+Body {
+  background-color: #012;
+  font-family: sans-serif;
+}
